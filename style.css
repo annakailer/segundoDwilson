@@ -6,5 +6,5 @@
 }
 .cabecalho{
     background-color:var(--cor-fundo)
-    color: var(--cor-fontes)
+    color: var(var(--cor-fontes))
 }
