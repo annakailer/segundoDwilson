@@ -4,7 +4,7 @@
     --cor-fundo2: #F1D4FF;
     --cor-fontes: #FFFFFF;
 }
-.cabecalho{
+.listacabecalho{
     background-color:var(--cor-fundo)
     color: var(--cor-fontes)
 }
