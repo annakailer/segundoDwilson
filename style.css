@@ -1,6 +1,9 @@
 :root{
     --cor-fundo: #920000;
-    --cor-fundo: #54AED4;
-    --cor-fundo: #F1D4FF;
-    --cor-fundo: #FFFFFF;
+    --cor-fundo-meclado: #54AED4;
+    --cor-fundo2: #F1D4FF;
+    --cor-fontes: #FFFFFF;
+}
+.cabecalho{
+    background-color:var(--cor-fundo)
 }
