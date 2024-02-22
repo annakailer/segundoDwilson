@@ -2,7 +2,7 @@
     --cor-fundo: #920000;
     --cor-fundo-meclado: #54AED4;
     --cor-fundo2: #F1D4FF;
-    --cor-fontes: #FFFFFF;
+    --cor-fontes-cabecalho: #FFFFFF;
 }
 .cabecalho{
     background-color:var(--cor-fundo)
